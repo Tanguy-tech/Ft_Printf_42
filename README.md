@@ -6,12 +6,7 @@
 
 ![Made with C](https://forthebadge.com/images/badges/made-with-c.svg) ![Powered by coffee](https://forthebadge.com/images/badges/powered-by-coffee.svg) ![Built with love](https://forthebadge.com/images/badges/built-with-love.svg)
 
-This project is an introduction to the beautiful world of Raytracing.
-Once completed i was able to render simple Computer-Generated-Images and you
-will never be afraid of implementing mathematical formulas again.x. 
-The miniRT is a first ray tracer coded in C, normed and humble but
-functionnal.
-
+The purpose of this project si to re-code the C function printf. 
 
 
 🟢 Installation:
